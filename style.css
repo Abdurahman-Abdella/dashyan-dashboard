@@ -64,6 +64,12 @@ body {
 	overflow-x: hidden;
 	scrollbar-width: none;
 }
+#sidebar img{
+	height: 50px;
+	margin-left: 13px;
+	margin-top: 20px;
+}
+
 #sidebar::--webkit-scrollbar {
 	display: none;
 }
